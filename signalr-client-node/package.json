@@ -1,0 +1,9 @@
+{
+  "name": "signalr-client-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@microsoft/signalr": "^7.0.12"
+  }
+}
